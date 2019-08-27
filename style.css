@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  line-height: 150%;
+  color: #333;
+  background: #efeee7;
+  font-family: Georgia;
+}
+
+header {
+  background: #333;
+
+}
+
+h1 {
+  color: #eee;
+  padding: 20px 0;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 20px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+
+}
+
+#bio-image, #mainBio, #contactInfo {
+  float: left;
+
+}
+
+#bio-image {
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+
+}
+
+#mainBio {
+  width: 70%;
+}
+
+#contactInfo {
+  width: 30%;
+}
